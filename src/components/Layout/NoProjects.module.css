@@ -1,0 +1,26 @@
+.maxcontainer {
+    width: 100%;
+    height: 100%;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+
+}
+
+.container img {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+width: 460px;
+}
+
+.button {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
